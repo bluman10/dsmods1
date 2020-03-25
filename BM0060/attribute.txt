@@ -1,0 +1,77 @@
+描述
+角色:技術女主播 耳朵 DouYutv.com/2643 
+屬性: 
+吃肉類食物有5%幾率升級 20級滿 
+每次升級增加精神和血量(上限的50%) 
+吃任何食物有2%幾率回複滿精神和血量 
+基礎三圍 150饑餓 100精神 100血量 
+滿級三圍 250饑餓 250精神 250血量 
+清晨降低饑餓1/3 精神15/100 (最大值) 
+白天 90%移動速度 100%攻擊力 
+黃昏 100%移動速度 110%攻擊力 
+夜晚 110%移動速度 120%攻擊力 
+洞穴內 110%攻擊力 100%移動速度 
+默認精神降低速度提高20% 
+
+道具:耳朵的連衣裙 
+屬性: 
+自帶4格小冰箱 
+精神恢複(海象帽的50%) 
+15天耐久(3色羽毛各5根制作) 
+
+09.30 : 
+修正初始三圍BUG 
+10.01 : 
+優化代碼 修複BUG 
+現在每次升級增加精神和血量(上限的50%) 
+吃任何食物有2%幾率回複滿精神和血量 
+10.04: 
+優化代碼 修復BUG(RAINCOAT_PERISHTIME) 
+裙子消失後 物品掉落 
+
+An Anchor Character in DouYutv.com/2643 
+
+This mod inspired by myself. 
+I like FOOD! Especially meat! When eating meat will have 5% chance to receive an upgrade for its maximum Sanity, Health, and Hunger.The max amount of meat that can be consumed to gain stat upgrades is 20. 
+A little bit lazy in the morning. I am afraid of the dark at night so I can run faster and hit hard. 
+I love beautiful clothes. 
+
+(The Pictures is selected from Gokou Ruri.) 
+
+Hunger	Lv1. 150 - Lv20. 250 
+Sanity	Lv1. 100 - Lv20. 250 
+Health	Lv1. 100 - Lv20. 250 
+
+In day： 
+-33% hungry & -15% sanity 
+Damage multiplier：1.0x 
+Speed：0.9x 
+
+In dusk： 
+Damage multiplier：1.1x 
+Speed：1.0x 
+
+In night: 
+Damage multiplier：1.2x 
+Speed：1.1x 
+
+In cave: 
+Damage multiplier：1.1x 
+speed：1.0x 
+
+When levelup +50% sanity & health 
+Eat any food has 2% chance +100% sanity & health 
+
+Normal sanity reduce about +20% 
+
+Special item: Ear pretty dress 
+has 4 solts and can fridge food 
++sanity(about 50% as walrushat) 
+can be use 15 days 
+
+
+10.04 
+refix bug:(RAINCOAT_PERISHTIME) 
+If eardress used things will drop. 
+
+PS: QQ:1273166 E-mail:1273166@qq.com
